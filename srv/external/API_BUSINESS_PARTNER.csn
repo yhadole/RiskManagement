@@ -42,7 +42,7 @@
      "@sap.label": "Sequence Number",
      "notNull": true
     },
-    "IsDefaultEmailAddress": {
+    "IsDefaultEmaA_BusinessPartnerilAddress": {
      "type": "cds.Boolean",
      "@sap.label": "Standard addr.",
      "@sap.quickinfo": "Flag: this address is the default address"
